@@ -69,12 +69,6 @@ const Footer = () => {
           </div>
         </div>
 
-        {/*
-        <div className="border bg-gray-20" />
-
-        <p className="regular-14 w-full text-center text-gray-30">&copy; 2024 - Juan Carlos Román</p>
-        */}
-
       </div>
     </footer>
   )
