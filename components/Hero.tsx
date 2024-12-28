@@ -14,10 +14,16 @@ const Hero = () => {
           width={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
-        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
+        <h1 className="bold-52 lg:bold-88">Yosemite RV Resort</h1>
+        {/*<p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
           We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible 
           beauty of nature. We can help you on an adventure around the world in just one app.
+        </p>*/}
+
+        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
+          Enjoy the beauty of nature with the Yosemite RV Resort. We provide a solution for 
+          you to be able to use our application when climbing, yes offline maps you can use at any 
+          time there is no signal at the location.
         </p>
 
         <div className="my-11 flex flex-wrap gap-5">
@@ -34,7 +40,7 @@ const Hero = () => {
           </div>
 
           <p className="bold-16 lg:bold-20">
-            198k 
+            125k 
             <span className="regular-16 lg-regular-20 ml-1">Excellent Reviews</span>
           </p>
         </div>
@@ -67,18 +73,18 @@ const Hero = () => {
                 width={24}
               />
             </div>
-            <p className="bold-20 text-white">Aguas Calientes</p>
+            <p className="bold-20 text-white">Yosemite National Park</p>
           </div>
 
           <div className="flexBetween">
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Distance</p>
-              <p className="bold-20 text-white">173.28 miles</p>
+              <p className="bold-20 text-white">84.50 miles</p>
             </div>
 
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Elevation</p>
-              <p className="bold-20 text-white">2.15 km</p>
+              <p className="bold-20 text-white">3.25 km</p>
             </div>
           </div>
         </div>

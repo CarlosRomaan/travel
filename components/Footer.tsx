@@ -9,12 +9,9 @@ const Footer = () => {
       <div className="padding-container max-container flex w-full flex-col gap-14">
         <div className="flex flex-col items-start justify-center gap-[10%] md:flex-row">
           <Link href="/" className="mb-10">
-            <Image
-              src="/hilink-logo.svg"
-              alt="logo"
-              height={29}
-              width={74}
-            />
+            <p className="font-bold text-2xl cursor-pointer">
+              <span className="text-green-50">camp</span>Fire
+            </p>
           </Link>
 
           <div className="flex flex-wrap gap-10 sm:justify-between md:flex-1">
